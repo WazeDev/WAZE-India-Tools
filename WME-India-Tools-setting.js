@@ -1,3 +1,3 @@
 var toolSettings = {
-    raidMode: true
+    raidMode: false
 };
