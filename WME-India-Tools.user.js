@@ -14,7 +14,6 @@
 // @downloadURL  https://github.com/WazeDev/WAZE-India-Tools/raw/refs/heads/main/WME-India-Tools.user.js
 // @updateURL    https://github.com/WazeDev/WAZE-India-Tools/raw/refs/heads/main/WME-India-Tools.user.js
 // @require      https://raw.githubusercontent.com/WazeDev/WAZE-India-Tools/main/WME-India-Tools-setting.js?t=%%TIMESTAMP%%
-// @connect      raw.githubusercontent.com
 // ==/UserScript==
 
 
