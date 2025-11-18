@@ -1,0 +1,3 @@
+var toolSettings = {
+    raidMode: true
+};
