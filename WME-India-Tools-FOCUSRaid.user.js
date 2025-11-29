@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         WME-India-Tools-FOCUSRaid
 // @namespace    http://tampermonkey.net/
-// @version      2025-11-29.02
+// @version      2025-11-29.03
 // @description  Designed for access to most often used functionalities to improve efficiency
 // @include      https://www.waze.com/editor*
 // @include      https://www.waze.com/*/editor*
