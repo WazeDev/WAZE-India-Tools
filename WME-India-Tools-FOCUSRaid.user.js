@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         WME-India-Tools-FOCUSRaid
 // @namespace    http://tampermonkey.net/
-// @version      2025-11-29.01
+// @version      2025-11-29.02
 // @description  Designed for access to most often used functionalities to improve efficiency
 // @include      https://www.waze.com/editor*
 // @include      https://www.waze.com/*/editor*
@@ -13,7 +13,6 @@
 // @require     https://cdn.jsdelivr.net/npm/@turf/turf@7/turf.min.js
 // @downloadURL  https://github.com/WazeDev/WAZE-India-Tools/raw/refs/heads/main/WME-India-Tools-FOCUSRaid.user.js
 // @updateURL    https://github.com/WazeDev/WAZE-India-Tools/raw/refs/heads/main/WME-India-Tools-FOCUSRaid.user.js
-// @require      https://raw.githubusercontent.com/WazeDev/WAZE-India-Tools/main/WME-India-Tools-FOCUSRaid-setting.js?t=%%TIMESTAMP%%
 // ==/UserScript==
 
 
