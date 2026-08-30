@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         WME-India-Tools
 // @namespace    http://tampermonkey.net/
-// @version      2026-08-29.01
+// @version      2026-08-29.10
 // @description  Designed for access to most often used functionalities to improve efficiency
 // @include      https://www.waze.com/editor*
 // @include      https://www.waze.com/*/editor*
